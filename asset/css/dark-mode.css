@@ -1,0 +1,68 @@
+[data-theme="dark"] {
+    background-color: #000 !important;
+}
+
+[data-theme="dark"] .main-menu {
+    background-color: #000 !important;
+}
+
+[data-theme="dark"] .searchSec {
+    background-color: #000 !important;
+}
+
+[data-theme="dark"] .header-container {
+    background-color: #000 !important;
+}
+
+[data-theme="dark"] .box-bg {
+    background-color: #0C0C0C !important;
+}
+
+[data-theme="dark"] .headCat-ul-wrap {
+    background-color: #0C0C0C !important;
+}
+
+[data-theme="dark"] .head-nav-infoSec {
+    background-color: #0C0C0C !important;
+}
+
+[data-theme="dark"] .mobhead-darkMode {
+    background-color: #0C0C0C !important;
+}
+[data-theme="dark"] .head-footer {
+    background-color: #0C0C0C !important;
+}
+[data-theme="dark"] .close-btn-head {
+    background-color: #0C0C0C !important;
+}
+[data-theme="dark"] .search-genBtn {
+    background-color: #0C0C0C !important;
+}
+
+[data-theme="dark"] .bg-white {
+    background-color: #000 !important;
+}
+
+[data-theme="dark"] p {
+    color: #ffffff !important;
+}
+[data-theme="dark"] .head-close {
+    background: #ffffff !important;
+}
+
+[data-theme="dark"] h5 {
+    color: #ffffff !important;
+}
+
+[data-theme="dark"] a {
+    color: #ffffff !important;
+}
+[data-theme="dark"] ::placeholder{
+    color: #ffffff !important;
+}
+[data-theme="dark"] input{
+    color: #ffffff !important;
+}
+[data-theme="dark"] svg{
+    fill: #ffffff !important;
+}
